@@ -6,10 +6,10 @@ This project uses machine learning to predict legal judgments. Users input case 
 
 The Legal Judgment Predictor is an innovative Streamlit web application designed to serve as an AI assistant for legal reasoning. By allowing users to input comprehensive case details, including facts, evidence, and precedents, the system leverages machine learning to predict potential legal outcomes. This tool aims to provide valuable insights into legal issues, suggest potential punishments, identify relevant legal articles, and even predict the judgment itself, all through a user-friendly interface. [cite: 1, 3, 7]
 
-##Developers
+# Developers
 1. Mehwish Gado BS-SE 2ND YEAR STUDENT
 2. ABDUL QADEER MIRJAT BS-SE 2ND YEAR STUDENT
-3. MUHAMMAD USMAN BS-SE 2ND YEAR STUDENR
+3. MUHAMMAD USMAN BS-SE 2ND YEAR STUDENT
 
 ## Key Features
 
